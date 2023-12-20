@@ -1,6 +1,6 @@
 ---
-title: "走进国粹"
-description: "国粹，乃一国之瑰宝，是民族文化中的璀璨明珠。它凝聚了千年古国的智慧与精髓，彰显了一个国家特有的文化魅力。"
+title: "走进甘博"
+description: "让志愿精神“声”入人心。"
 cascade:
-   featured_image: '/images/guocui.jpg'
+   featured_image: '/images/ganbo.jpg'
 ---
