@@ -1,5 +1,6 @@
 baseURL = 'https://babibanibanidsx.github.io/-/'
 languageCode = 'zh'
+canonifyurls = true
 title = '优秀传统文化'
 theme = 'ananke'
 publishDir = "docs"
